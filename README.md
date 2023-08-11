@@ -17,12 +17,14 @@ The Laravel Events Project is a web application that allows users to create, vie
 - HTML, CSS, JavaScript - Standard web technologies for building the interface.
 
 ## System Screens
+https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png
+https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png
 
-![tela3-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela3-eventcgc.png)
+![tela1-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png)
 <table>
   <tr>
-    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png" alt="Tela 1 - home"></td>
-    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png" alt="Tela 2 - home"></td>
+    <td>![tela2-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png)</td>
+    <td>![tela3-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela3-eventgc.png)</td>
   </tr>
 </table>
 
