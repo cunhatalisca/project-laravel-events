@@ -14,8 +14,7 @@
     <div class="nav-wrapper">
       <a href="#" class="brand-logo center">EVENTOS GC</a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
-        <li><a href="badges.html">HOME</a></li>
-        <li><a href="collapsible.html">CADASTRAR UM EVENTO</a></li>
+        <li><a href="/">HOME</a></li>
       </ul>
     </div>
   </nav>

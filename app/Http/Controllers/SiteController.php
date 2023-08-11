@@ -16,9 +16,28 @@ class SiteController extends Controller
 
     public function details ($id) {
 
-        $event = Event::where('id', $id);
+        $uniqueEvent = Event::where('id', $id)->first(); //first() retorna apenas um registro
 
-        return view('site.details', compact('event'));
+        return view('site.details', compact('uniqueEvent'));
 
     }
+
+    public function createEvent(Request $request) {
+
+        $eventsData = $request->validate([
+            'name' => 'required|max:255',
+            'description' => 'required',
+            'image' => 'required',
+        ]);
+    
+        $cadEvt = new Event();
+        $cadEvt->name = $eventsData['name'];
+        $cadEvt->description = $eventsData['description'];
+        $cadEvt->image = $eventsData['image'];
+    
+        $cadEvt->save();
+    
+        return view('site.eventsPost', compact('cadEvt'));
+    }
+
 }
