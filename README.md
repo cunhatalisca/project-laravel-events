@@ -21,12 +21,9 @@ https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-e
 https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png
 
 ![tela1-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png)
-<table>
-  <tr>
-    <td>![tela2-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png)</td>
-    <td>![tela3-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela3-eventgc.png)</td>
-  </tr>
-</table>
+![tela2-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png)
+![tela3-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela3-eventgc.png)
+
 
 ## Database Screens
 
