@@ -1,6 +1,6 @@
-# EVENTS GC
+# Project EVENTS GC
 
-Welcome to the Laravel EVENT GC! This is an event management system developed in Laravel.
+Welcome to the Laravel EVENTS GC! This is an event management system developed in Laravel.
 
 ## Overview
 
@@ -22,6 +22,16 @@ The Laravel Events Project is a web application that allows users to create, vie
   <tr>
     <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png" alt="Tela 1 - home"></td>
     <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png" alt="Tela 2 - home"></td>
+  </tr>
+</table>
+
+## Database Screens
+
+<table>
+  <tr>
+    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/bancodedados.png" alt="Database"></td>
+    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-eventos.png" alt="Table events"></td>
+      <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-users.png" alt="Table Users"></td>
   </tr>
 </table>
 
