@@ -1,6 +1,6 @@
-# Laravel Project Events
+# EVENTS GC
 
-Welcome to the Laravel Events project! This is an event management system developed in Laravel.
+Welcome to the Laravel EVENT GC! This is an event management system developed in Laravel.
 
 ## Overview
 
@@ -17,6 +17,13 @@ The Laravel Events Project is a web application that allows users to create, vie
 - HTML, CSS, JavaScript - Standard web technologies for building the interface.
 
 ## System Screens
+
+<table>
+  <tr>
+    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png" alt="Tela 1 - home"></td>
+    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png" alt="Tela 2 - home"></td>
+  </tr>
+</table>
 
 ## Settings
 
@@ -58,7 +65,7 @@ The Laravel Events Project is a web application that allows users to create, vie
   ```bash
   git checkout -b my-new-feature
   
-- Faça as alterações desejadas e faça commits:
+- Make the desired changes and make commits:
   ```bash
   git commit -m "Add resource X"
 
