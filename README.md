@@ -22,18 +22,14 @@ https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-e
 
 ![tela1-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela1-eventgc.png)
 ![tela2-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela2-eventgc.png)
-![tela3-home]()
+![tela3-home](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tela3-eventcgc.png)
 
 
 ## Database Screens
 
-<table>
-  <tr>
-    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/bancodedados.png" alt="Database"></td>
-    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-eventos.png" alt="Table events"></td>
-    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-users.png" alt="Table Users"></td>
-  </tr>
-</table>
+![database](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/bancodedados.png)
+![table-events](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-eventos.png)
+![table-users](https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-users.png)
 
 ## Settings
 
