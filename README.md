@@ -31,7 +31,7 @@ The Laravel Events Project is a web application that allows users to create, vie
   <tr>
     <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/bancodedados.png" alt="Database"></td>
     <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-eventos.png" alt="Table events"></td>
-      <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-users.png" alt="Table Users"></td>
+    <td><img src="https://github.com/cunhatalisca/project-laravel-events/blob/image/images/tabela-users.png" alt="Table Users"></td>
   </tr>
 </table>
 
